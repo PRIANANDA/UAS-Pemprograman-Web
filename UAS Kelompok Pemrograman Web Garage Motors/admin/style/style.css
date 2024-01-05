@@ -1,0 +1,7 @@
+@import "./style.css";
+@import "./header.css";
+
+*{
+   Padding:  0;
+   Margin:   0;
+  }

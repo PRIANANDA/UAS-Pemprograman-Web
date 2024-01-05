@@ -1,0 +1,25 @@
+.banners1 {
+     background-size:contain;
+     height: calc(100vh - 75px);
+     background-image: url(../image/v\ merah.png);
+     background-repeat: no-repeat;
+}
+.banners2 {
+     height: 100%;
+     justify-content: center;
+     display: flex;
+     align-items: center;
+}
+.contents1 {
+     position: relative;
+     width: 50%;
+}
+.title1 {
+     padding-left: 17%;
+     color:rgb(0, 0, 0);
+     text-align:center;
+     font-size: 70px;  
+     padding-bottom: 2%;
+     text-shadow: 2px 2px 1px rgb(183, 180, 33);
+     font-family: 'Times New Roman';
+}
